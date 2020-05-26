@@ -32,7 +32,7 @@ I am *uncertain* if this works with Winterboard or Anemone, as I have not tested
 Cydia may display Modern 6 update even if on the latest version. 
 *Workaround -* Cydia -> Changes -> Modern 6 (Beta) -> Change Package Settings -> Enable Ignore Upgrades
 
-*Note:* You will**not** see available updates when they are available by enabling this!
+*Note:* You will **not** see available updates when they are available by enabling this!
 
 # F.A.Q
 
