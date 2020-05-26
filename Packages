@@ -11,6 +11,7 @@ Description: This is my first theme. No one has made an HD iOS 6 theme in a long
 Name: Modern 6 (beta)
 Author: IceCoolTech
 Depiction: https://icecooltech.github.io/packageInfo/modern6.html
+Icon: https://icecooltech.github.io/packageInfo/PackageAssets/Modern6_icon.png
 
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
@@ -25,6 +26,7 @@ Description: This is my first theme. No one has made an HD iOS 6 theme in a long
 Name: Modern 6 (beta)
 Author: IceCoolTech
 Depiction: https://icecooltech.github.io/packageInfo/modern6.html
+Icon: https://icecooltech.github.io/packageInfo/PackageAssets/Modern6_icon.png
 
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
@@ -39,3 +41,4 @@ Description: This is my first theme. No one has made an HD iOS 6 theme in a long
 Name: Modern 6 (beta)
 Author: IceCoolTech
 Depiction: https://icecooltech.github.io/packageInfo/modern6.html
+Icon: https://icecooltech.github.io/packageInfo/PackageAssets/Modern6_icon.png
