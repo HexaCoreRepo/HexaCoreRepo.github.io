@@ -1,0 +1,8 @@
+Origin: IceCoolTech's Repo
+Label: IceCoolTech's Repo
+Suite: stable
+Version: 1.0
+Codename: IceCoolTech
+Architecture: iphoneos-arm
+Components: main
+Description: IceCoolTech's Tweaks/Themes
