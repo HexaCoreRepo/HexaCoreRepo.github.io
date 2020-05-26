@@ -4,8 +4,8 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mondern6_banner.png",
-        "title": "Modern 6",
+        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mondern6.png",
+        "title": "Modern 6 (beta)",
         "package": "com.icecooltech.modern6",
         "hideShadow": false
     }
