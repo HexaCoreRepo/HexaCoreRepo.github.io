@@ -1,41 +1,38 @@
-# Modern 6 (Beta) - A modern retina iOS 6 theme.
+# Modern 6 (Beta) - A modern, retina iOS 6 theme.
 
 ## By - IceCool Tech  (YouTube - https://www.youtube.com/c/IceCoolTech)
 
 # Overview
 
-This is my first theme.
+This is my first theme!
 
-No one has made an HD iOS 6 theme in a *long* time - if ever. I, among others, would like a new one. That's why I'm bringing you an iOS 6 theme that is specifically for the modern high quality displays we have now. 
+There has not been a Retina HD iOS 6 theme in a *long* time - if ever. Every current iOS 6 theme is either pixelated and blurry (Non-retina) or pixelated, blurry, *and* incomplete. I, among others, would like that complete, beautiful skuemorphic design from iOS 6 on the latest iPhones, iPads, and iPod touches, as well as the nostalgic feeling that follows in a sharp, stunning look. That's why I'm bringing you an iOS 6 theme that is specifically for the modern high quality displays we have now as well as the latest iOS versions. 
 
 Modern 6 looks **great** with "Six (LS)" from Skittys repo and Classic Badges!
 
 # About the beta
 
-As of right now, the theme is in beta. This means that there will be bugs and not all icons are done. This also means that some icons *may* be blurry for the time being. 
+As of right now, the theme is in beta. This means that there may be bugs and not all icons are done or require more work.
 
-During this beta period, you should report any bugs that you come across. However, you can also put in requests for ***popular*** third party App Store apps. These apps must have had an iOS 6 or older specific icon as well.
+During this beta period, you should report any bugs that you come across. However, you can also put in requests for ***Known*** third party App Store apps. These apps must have had an iOS 6 or older app icon as well.
 
-If you come across any bugs, open a new issue and I *will* see it!
+If you come across any bugs, report it to me and I *will* see it!
 
-# Requirements & Installation 
+# Requirements
 
-**To use this theme, you will need a jailbroken iOS device, Filza File Manager OR Zebra and Snowboard.**
+***Prerequisites***
+
+- Cydia or Zebra 
+- IceCool Tech repo - IceCoolTech.github.io
 
 I am *uncertain* if this works with Winterboard or Anemone, as I have not tested them.
 
-To install with Filza File Manager:
-
-1) Download the theme to your jailbroken device from the releases tab. On iOS/iPadOS 13.0 or later, you can download it with Safari.
-2) Open it in the Apple Files application. 
-3) Copy the .deb file to Filza.
-4) Tap the .deb file and select install.
-5) Tap "Respring".
-6) Open Settings -> Snowboard -> Select theme -> Enable Modern 6.
-
 # Known issues
 
-None!
+Cydia may display Modern 6 update even if on the latest version. 
+*Workaround -* Cydia -> Changes -> Modern 6 (Beta) -> Change Package Settings -> Enable Ignore Upgrades
+
+*Note:* You will**not** see available updates when they are available by enabling this!
 
 # F.A.Q
 
@@ -43,6 +40,6 @@ None!
 
 When it's ready.
 
-# Credits
+# Credits & Sepcial thanks
 
-Repository - CrafterPika
+**Repository setup** - CrafterPika
