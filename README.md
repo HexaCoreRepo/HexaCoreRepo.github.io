@@ -40,6 +40,6 @@ Cydia may display Modern 6 update even if on the latest version.
 
 When it's ready.
 
-# Credits & Sepcial thanks
+# Credits & Special thanks
 
 **Repository setup** - CrafterPika
