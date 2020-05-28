@@ -42,4 +42,4 @@ When it's ready.
 
 # Credits & Special thanks
 
-**Repository setup** - CrafterPika
+**Complete repository setup** - CrafterPika
