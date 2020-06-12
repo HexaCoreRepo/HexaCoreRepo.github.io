@@ -1,15 +1,15 @@
 Package: com.icecooltech.modern6
-Architecture: iphoneos-arm
+Name: Modern 6
 Version: 0.7.0
-Section: Themes
+Architecture: iphoneos-arm
+Description: iOS 6 icons for modern displays.
+Author: IceCool Tech
 Maintainer: IceCool Tech
-Depends: mobilesubstrate, com.spark.snowboard
+Section: Themes
+Depends: com.spark.snowboard
 Filename: ./debfiles/Modern6_v0.7.0.deb
 Size: 5578992
 MD5sum: 783d55d22839e2a640035201ab586202
-Description: This is my first theme! There has not been a Retina HD iOS 6 theme in a long time - if ever. Every current iOS 6 theme is either pixelated and blurry (Non-retina) or pixelated, blurry, and incomplete. I, among others, would like that complete, beautiful skuemorphic design from iOS 6 on the latest iPhones, iPads, and iPod touches, as well as the nostalgic feeling that follows in a sharp, stunning look. That's why I'm bringing you an iOS 6 theme that is specifically for the modern high quality displays we have now as well as the latest iOS versions. Modern 6 looks great with "Six (LS)" from Skittys repo and Classic Badges! For the best experience, set your Custom Corner Radius to 12.0 in Snowboard!
-Name: Modern 6 (Beta)
-Author: IceCool Tech
 Depiction: https://icecooltech.github.io/packageInfo/modern6.html
 Icon: https://icecooltech.github.io/packageInfo/PackageAssets/Modern6_icon.png
 
