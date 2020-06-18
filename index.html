@@ -7,10 +7,8 @@
  <link rel="stylesheet" type="text/css" href="assets/depiction.css">
  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  <meta name="format-detection" content="telephone=yes">
- <!-- <script type="text/javascript" src="/fastclick/lib/fastclick.js"> -->
- 
- <script type="text/javascript">if(navigator.userAgent.search(/Cydia/)!=-1){var title=document.title;var dot=title.indexOf('·');if(dot!=-1) document.title=title.substring(0,dot);}</script>
-<link rel="preload" href="assets/integrator.js" as="script"><script type="text/javascript" src="assets/integrator.js"></script><link rel="preload" href="assets/integrator_002.js" as="script"><script type="text/javascript" src="assets/integrator_002.js"></script></head>
+
+<script type="text/javascript" src="assets/depiction.js"></script></head>
 <body class="pinstripe">
 <panel style="height: auto !important;">
 <fieldset style="height: auto !important;">
@@ -30,16 +28,63 @@
   <label>
    <p>Add Repo</p>
   </label>
-<block>
-<p style="font-weight:bold">Add this repo to:</p>
-<h6>Repo: https://icecooltech.github.io/</h6>
+<fieldset>
+<form name="cydia" action="cydia://url/https://cydia.saurik.com/api/share#?source=https://icecooltech.github.io/repo/" method="post">
+</form>
+  <a href="javascript:cydia.submit()" class="     "><img class="icon" src="./icon/cydia.png">
+    <div>
+      <div>
+        <label>
+          <p>Add to Cydia <span style="font-style:italic;font-weight:bold">
+          </span>
+        </p>
+      </label>
+    </div>
+  </div>
+</a>
 <hr>
-  <li><a href="zbra://sources/add/https://icecooltech.github.io/">Zebra</a></li>
-  <hr>
-  <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://icecooltech.github.io/">Cydia</a></li>
-  <hr>
-  <li><a href="sileo://source/https://icecooltech.github.io/">Sileo</a></li>
-</block>
+<form name="zebra" action="zbra://sources/add/https://icecooltech.github.io/" method="post">
+</form>
+  <a href="javascript:zebra.submit()" class="     "><img class="icon" src="./icon/Zebra.png">
+    <div>
+      <div>
+        <label>
+          <p>Add to Zebra <span style="font-style:italic;font-weight:bold">
+          </span>
+        </p>
+      </label>
+    </div>
+  </div>
+</a>
+<hr>
+<form name="sileo" action="sileo://source/https://icecooltech.github.io/repo/" method="post">
+</form>
+  <a href="javascript:sileo.submit()" class="     "><img class="icon" src="./icon/sileo.png">
+    <div>
+      <div>
+        <label>
+          <p>Add to Sileo <span style="font-style:italic;font-weight:bold">
+          </span>
+        </p>
+      </label>
+    </div>
+  </div>
+</a>
+<hr>
+<form name="installer" action="installer://add/repo=https://icecooltech.github.io/repo/" method="post">
+</form>
+  <a href="javascript:installer.submit()" class="     "><img class="icon" src="./icon/installer.png">
+    <div>
+      <div>
+        <label>
+          <p>Add to Installer 5 <span style="font-style:italic;font-weight:bold">
+          </span>
+        </p>
+      </label>
+    </div>
+  </div>
+</a>
+</fieldset>
 
   <label>
    <p>Featured Software</p>
@@ -51,13 +96,33 @@
   <label>
    <p>Social Media</p>
   </label>
-  <fieldset>
-   <div>
-    <li><a href="https://twitter.com/IcecoolTech">Twitter</a></li>
-    <hr>
-    <li><a href="https://www.youtube.com/channel/UCNwedblkm5JYK-AaBhdAqsg">YouTube</a></li>
-   </div>
-  </fieldset>
+<fieldset>
+<form name="twitter" action="https://twitter.com/IcecoolTech" method="post">
+</form>
+  <a href="javascript:twitter.submit()" class="     "><img class="icon" src="./icon/twitter.png">
+    <div>
+      <div>
+        <label>
+          <p>Follow Me on <span style="color:#419bd7">Twitter</span> <span style="font-style:italic;font-weight:bold">
+          </span>
+        </p>
+      </label>
+    </div>
+  </div>
+</a>
+<hr>
+<form name="donate" action="https://www.youtube.com/channel/UCNwedblkm5JYK-AaBhdAqsg" method="post">
+</form>
+  <a href="javascript:donate.submit()" class="     "><img class="icon" src="./icon/youtube.png">
+    <div>
+      <div>
+        <label>
+          <p>Give me a sub on YouTube</p>
+      </label>
+    </div>
+  </div>
+</a>
+</fieldset>
 
 
 
