@@ -8,6 +8,12 @@
         "title": "Modern 6",
         "package": "com.icecooltech.modern6",
         "hideShadow": false
+    },
+    {
+        "url": "https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_Banner.png",
+        "title": "Mobile Sur",
+        "package": "com.icecooltech.mobilesur",
+        "hideShadow": false
     }
   ]
 }
