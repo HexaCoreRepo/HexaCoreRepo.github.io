@@ -1,19 +1,4 @@
 Package: com.icecooltech.mobilesur
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Themes
-Maintainer: IceCool Tech
-Depends: mobilesubstrate, com.spark.snowboard
-Filename: ./debfiles/MobileSur_v1.0.1.deb
-Size: 1161852
-MD5sum: 6f913a254f3c6ec295a337428692e643
-Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
-Name: Mobile Sur
-Author: IceCool Tech
-Depiction: https://icecooltech.github.io/packageInfo/com.icecooltech.mobilesur/
-Icon: https://icecooltech.github.io/packageInfo/PackageAssets/MobileSur_icon.png
-
-Package: com.icecooltech.mobilesur
 Name: Mobile Sur
 Version: 1.0.0
 Architecture: iphoneos-arm
