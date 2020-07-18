@@ -24,8 +24,7 @@ If you come across any bugs, report it to me and I *will* see it!
 
 - Cydia, Zebra or Sileo 
 - Snowboard or Anemone
-- IceCool Tech's repo - IceCoolTech.github.io/
-
+- IceCool Tech's repo - https://icecooltech.github.io
 
 I am *uncertain* if this works with Winterboard, as I have not tested it.
 
@@ -45,4 +44,4 @@ No. The "Modern" naming scheme will only be used for Modern 6. That *does not* m
 
 # Credits & Special thanks
 
-**Complete repository setup** - CrafterPika 
+**Complete repository setup** - @CrafterPika 
