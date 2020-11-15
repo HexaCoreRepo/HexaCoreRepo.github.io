@@ -3,4 +3,4 @@
 Oh, what's this?
 Could it be? IceCool Tech's Repo?!
 
-Add: [https://icecooltech.github.io/](https://icecooltech.github.io/) to your package manager and enjoy great themes.
+Add: [https://nostalgiaboxrepo.github.io/](https://nostalgiaboxrepo.github.io/) to your package manager and enjoy great themes.
