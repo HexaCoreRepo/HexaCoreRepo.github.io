@@ -29,8 +29,8 @@ Size: 1123102
 MD5sum: cfd29c8568155f06c61472e177548687
 SHA1: bcba69b95bd8359c1f452cd630da7b844854e20b
 SHA256: 9157561e51e1637fdbf1d6e190c0c5364bc49e891dbe67570a72fffb67d9a9c9
-Depiction: https://nostalgiaboxrepo.github.io/packageInfo/com.icecooltech.mobilesur/
-Icon: https://nostalgiaboxrepo.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+Depiction: https://icecooltech.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://icecooltech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
 
 Package: com.icecooltech.modern6
 Name: Modern 6
