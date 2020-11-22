@@ -1,3 +1,20 @@
+Package: com.icecooltech.modern6
+Name: Modern 6
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Full iOS 6 theme for modern displays.
+Author: IceCool Tech
+Maintainer: IceCool Tech
+Section: Themes
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.1.1.deb
+Size: 14573226
+MD5sum: 3fab804138926aa547ab6e2f914cc0de
+SHA1: bf4b90481aab7e626a6be2f3b2f7803083fde140
+SHA256: 18143486788b079d10bda1e8f1a2ae2501bac0e04c1ba41bd27785790b1851da
+Depiction: https://nostalgiaboxrepo.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://nostalgiaboxrepo.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
 Package: com.icecooltech.mobilesur
 Name: Mobile Sur
 Version: 1.1.2
