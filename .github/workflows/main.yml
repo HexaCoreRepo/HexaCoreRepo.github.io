@@ -41,3 +41,18 @@ jobs:
         with:
           name: out-build
           path: build
+
+      - name: Commit files
+        run: |
+          git config --local user.email "test@github.com"
+          git config --local user.name "GitHub Action test"
+          git add ./Packages
+          git add ./Packages.bz2
+          git commit -m "Update Packages"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master #ignore if your branch is master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
