@@ -1,0 +1,176 @@
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.0.0.deb
+Size: 1161802
+MD5sum: a076119ff861405734594aea0e0d762a
+SHA1: 2bcafd99f7118e31185660c8ca4463aac00ec497
+SHA256: 8752e3e4e3bb2a3c6c4f0381da1e180466bc1cd89060011d39832878b68ff7f8
+SHA512: c83522b9b437615ba279ae97f0bc018edd5f52fee9eb6bfa4944837574cd2bc021088a4451d1f052601d4929795ce114d550e28ee654ba1cf78c1e6b39350f06
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.0.1.deb
+Size: 1161852
+MD5sum: 6f913a254f3c6ec295a337428692e643
+SHA1: cae274b487e7395bef2906bea7434d6a569141d9
+SHA256: 2260652e751250aa49413c1392386fd26596ff807816bed3395d546cdef38dbd
+SHA512: 6ef9871c71eb9f450fe5c13af8b07ee87b6f52d39efd069c23bf23ef36798f446264e015d79507e4f5692b58621cd4f78af2c12249737606b7b3950defacaccd
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.0.deb
+Size: 1138754
+MD5sum: 3e50933808afa84cbb6e0f965a28a0a9
+SHA1: 142ab5980a38907420bf40e0e7b6620b6ab1e630
+SHA256: cca3fdd09a8ddb565ed6ee480541067656c6caec18b64981be5ce0cad54860ec
+SHA512: 43874f3b649c9009ad00325137dbdfea8026d2cf5572bbe0a12f726cf3691744a66dc67816b1aae24592a198309ea1ec0effa1ad678a69042ccbaa23b668a693
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.1.deb
+Size: 1135834
+MD5sum: 060127cc66ee3584bd2a90aff3cc0f39
+SHA1: 58d137c4387128a4cb6615e668f46c442cdf92cc
+SHA256: 4d939891ee7310d31b01bea81b5fec967b0c5042d18a1d73b6ae8e1f9fba5de8
+SHA512: 637ca9b2cc695fc5a9495401b08a92668820ebfdc489a4c3bef1b29d1fd6fc5eb0444f80d9efac31485989efdf649cf56950062b143e1f0cb801f563db9d8667
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.2.deb
+Size: 1123102
+MD5sum: cfd29c8568155f06c61472e177548687
+SHA1: bcba69b95bd8359c1f452cd630da7b844854e20b
+SHA256: 9157561e51e1637fdbf1d6e190c0c5364bc49e891dbe67570a72fffb67d9a9c9
+SHA512: 336dc57c37d41ec7e06e00c02cc10fb420da2a456cf3f030ecdbc573eeeb8e65b27f9115052c57e9df5105d8125c8a1b2fb63aa9f5c08a88dd15aaade4b726d5
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.0.0.deb
+Size: 12957902
+MD5sum: 03b26585332321ae6b61f960f7589517
+SHA1: 5b993bc0946eac7f8d7bf1591cb69d4234f423f0
+SHA256: 42c41d72bea4d2583338268b923167b9214f3b60b6aeb53e7531b49fdabab8ee
+SHA512: 2909d0786e0633241c7ce298d1669dd14d3a67192c1c876054f9479d0c4029e759b8e7864ac110ff2b6a153181ab991ec40f510d2eb4b66e30c9907ec596c564
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.0.1.deb
+Size: 14255410
+MD5sum: 6571213747613bbf72e7229b0bab58c4
+SHA1: 43caaa3e255970602b0cb1f8bdb95a03a251bc97
+SHA256: 8b15abbb7b30a9d9b07c84afd4ddee198bffd54f6f8debf6cd54b847965dddb7
+SHA512: 18f16668fa19a6e4f98dd9dacca91075cf7296194fd7438db48033d07d45c8fd750d7bd607ea97a20e1424130a0f61f7c31d435181908f456636fc8427ac024b
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.1.0.deb
+Size: 14573352
+MD5sum: 43c176dae0fb2b2887048a008242b355
+SHA1: 7224cb944cde2678539cc7a9269755868d32cfdb
+SHA256: ac0e763ad3e934e44604419214193ba06f00610e4a8a4c33d84eea897481cb8a
+SHA512: c8f435391eb803847e06cffed30050255cca0136cc321e19660d43d0827e853785073f5c936dab4f6d160d853f97531f2293bde43b357717511aa44eecea9a83
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.1.1.deb
+Size: 14573226
+MD5sum: 3fab804138926aa547ab6e2f914cc0de
+SHA1: bf4b90481aab7e626a6be2f3b2f7803083fde140
+SHA256: 18143486788b079d10bda1e8f1a2ae2501bac0e04c1ba41bd27785790b1851da
+SHA512: 8b9dba2f699109694934f2e87c8b545b0efc9eb26dd4cc810e10e61b5c88ba20beb5f314fbaaf3ad7bcfb4611ff8c61f4bc169958a8b04d44054832fc2ba80f5
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.0.0.deb
+Size: 17308044
+MD5sum: f4093c356365bb301a4baadeab0478f5
+SHA1: 0b49049e33b27aec204aacef45d9e91f15752c8c
+SHA256: 5b05d81aa97c73c653256f921a9a9955ce3d427d17d8c6f7ccd9532be84412e5
+SHA512: e1d5746ae57a678e6c7e059787867b43ae3705e61a6e60e59ae128979713f9a9567f923c919c2626b2494c1ef02ff39eb71c61e553198a2f22e838d07d6ad134
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.0.deb
+Size: 19882404
+MD5sum: 76db29aa38e142d6d1c6045d5f81a573
+SHA1: caf68bab280ee0ba6828bc83e797334099483e00
+SHA256: 6bd792c281c5d528ed8e56eac5a3db2fe94bb2a9ddfb4df1ca4b03bef66fe35a
+SHA512: e5779a8cde0cd1f8cdf660fa40c86f95dbfc7f7abb4410098e27be2b9fb868e106a4a2c9cbfbbde655c58769be5e764a27cb22a3dd75358a19e03332faa2fb67
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+
