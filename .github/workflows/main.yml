@@ -33,8 +33,8 @@ jobs:
           mkdir build
           apt-ftparchive packages ./debfiles/ > ./Packages;
           bzip2 -c9k ./Packages > ./Packages.bz2;
-          mv ./Packages ./build/Packages
-          mv ./Packages.bz2 ./build/Packages.bz2
+          cp ./Packages ./build/Packages
+          cp ./Packages.bz2 ./build/Packages.bz2
           
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v2
@@ -49,6 +49,7 @@ jobs:
           git add ./Packages
           git add ./Packages.bz2
           git commit -m "Update Packages"
+          rm -rf build
 
       - name: Push changes
         uses: ad-m/github-push-action@master
