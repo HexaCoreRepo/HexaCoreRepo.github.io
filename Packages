@@ -78,6 +78,24 @@ Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
 Name: Mobile Sur
 Author: IceCool Tech
 
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.3.deb
+Size: 1123176
+MD5sum: 9f37edc14db916551145c176c5836e47
+SHA1: 98384f329fe931dfe4957ecc84ae79feb5a8ccc8
+SHA256: 88446207f18a26f30403321a0a6fdfbb514149528c6e29244d042af32de0b246
+SHA512: 366b1594a272044ca1a5fb3706c8d72d1b0b211100fd02729bdf1cd92e7b4e74da68b74251770af58b8c678635e590d85fcefea640b0cf08e0955805d8b4c778
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -173,4 +191,22 @@ SHA512: e5779a8cde0cd1f8cdf660fa40c86f95dbfc7f7abb4410098e27be2b9fb868e106a4a2c9
 Description: The world's sharpest iOS 6 theme.
 Name: Modern 6
 Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.1.deb
+Size: 19882492
+MD5sum: 535f3e6adcf9a73023ee49352e1398c0
+SHA1: 77cd057b32fe0dbe7b5114ed602e013831ad2a46
+SHA256: d2c3686b1a12474ecfa3cb11879b1e0b3e5e817022595675744e2150709dd01e
+SHA512: 502a1c1b6b9753dec9b35ff20c9abc05460f56a35dd07dbf06a240b335237e1f88599e3ec853dd5499b26c7782712402168051ca9766bb9acf0e66f32ca0476f
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Modern6_icon.png
 
