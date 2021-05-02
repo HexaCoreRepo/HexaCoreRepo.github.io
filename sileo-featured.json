@@ -4,13 +4,13 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://nostalgiaboxrepo.github.io/packageInfo/PackageAssets/Mondern6_banner.png",
+        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mondern6_banner.png",
         "title": "Modern 6",
         "package": "com.icecooltech.modern6",
         "hideShadow": false
     },
     {
-        "url": "https://nostalgiaboxrepo.github.io/packageInfo/PackageAssets/Mobile_Sur_Banner.png",
+        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mobile_Sur_Banner.png",
         "title": "Mobile Sur",
         "package": "com.icecooltech.mobilesur",
         "hideShadow": false
