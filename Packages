@@ -96,6 +96,24 @@ Author: IceCool Tech
 Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.mobilesur/
 Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
 
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v2.0.0.deb
+Size: 5917186
+MD5sum: 3af64292b5339758edf66099176be6b5
+SHA1: a32c8109d6daf3a15f151122af07bf55713231b0
+SHA256: 1010064c95bf412e15aacb2a866c9ba0777379a4636eb307eb4ce87dd9262d7e
+SHA512: 0db071dbda032149b98b83afbc7cda1fe65dfc4488029b9cfb5ddd718bbc1bf73ab6478ac530122122f831e27fc36594f071c9e439121ea3f05bb45a3c5d94fd
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
 Version: 0.4.1
