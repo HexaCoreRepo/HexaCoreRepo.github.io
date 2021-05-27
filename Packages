@@ -114,6 +114,24 @@ Author: IceCool Tech
 Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
 Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
 
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v2.0.1.deb
+Size: 5915900
+MD5sum: eb586fd702d1cb0cdaa0525fbf345cdf
+SHA1: 87b0acad05dbe0ba6ff42636144074aa64bf6638
+SHA256: fb1da4f32747d00ff69caae0e27b4553de87edfbfda1b0c50f56d6adbb805016
+SHA512: 2f49a69cd21f4765813395b2a3cc0e7794e635c25107c16e1ab1b5dc65ea1e8fe902fd2e8047407648a291d0328466abf14c8a7c2bdfcfb762b6c2be876d5c00
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
 Version: 0.4.1
@@ -434,6 +452,24 @@ MD5sum: 5d7e6f609543d58555af991ab2b8531d
 SHA1: 941de066034f644106045f557b63cce8b6cec2a7
 SHA256: 58057ad3e689b2abb93c8077760b675653a0c951d2a7715faf4aeb7b38e1a322
 SHA512: 4ae2760a14beab717fcf17b8cf691784a8fd3ddb70d955dc793a9f40eba2fa54e09640067e6acacb042153bdb22cae98bd33d83ee564db1d12f94b0282b234b6
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.4
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.4.deb
+Size: 19434514
+MD5sum: 052225c6f58d6f4205d716caf5cd0808
+SHA1: 97db835ff4fff72b1649990dadb8047e4cf68247
+SHA256: a1f74f3066f82992814dc9ef7d7ba4ecb8b883fcb2078c31ecb375adbe20571f
+SHA512: c90e3bacdc102ac785f549b7de1ad3731263cb4863260c7215705815fae171fd91b25c70b6aed2ceaee60b9fe5faf5d15c884b4aa6044c59134b354ec7c6f7bd
 Description: The world's sharpest iOS 6 theme.
 Name: Modern 6
 Author: IceCool Tech
