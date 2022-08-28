@@ -1,3 +1,137 @@
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.0.0.deb
+Size: 1161802
+MD5sum: a076119ff861405734594aea0e0d762a
+SHA1: 2bcafd99f7118e31185660c8ca4463aac00ec497
+SHA256: 8752e3e4e3bb2a3c6c4f0381da1e180466bc1cd89060011d39832878b68ff7f8
+SHA512: c83522b9b437615ba279ae97f0bc018edd5f52fee9eb6bfa4944837574cd2bc021088a4451d1f052601d4929795ce114d550e28ee654ba1cf78c1e6b39350f06
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.0.1.deb
+Size: 1161852
+MD5sum: 6f913a254f3c6ec295a337428692e643
+SHA1: cae274b487e7395bef2906bea7434d6a569141d9
+SHA256: 2260652e751250aa49413c1392386fd26596ff807816bed3395d546cdef38dbd
+SHA512: 6ef9871c71eb9f450fe5c13af8b07ee87b6f52d39efd069c23bf23ef36798f446264e015d79507e4f5692b58621cd4f78af2c12249737606b7b3950defacaccd
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.0.deb
+Size: 1138754
+MD5sum: 3e50933808afa84cbb6e0f965a28a0a9
+SHA1: 142ab5980a38907420bf40e0e7b6620b6ab1e630
+SHA256: cca3fdd09a8ddb565ed6ee480541067656c6caec18b64981be5ce0cad54860ec
+SHA512: 43874f3b649c9009ad00325137dbdfea8026d2cf5572bbe0a12f726cf3691744a66dc67816b1aae24592a198309ea1ec0effa1ad678a69042ccbaa23b668a693
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.1.deb
+Size: 1135834
+MD5sum: 060127cc66ee3584bd2a90aff3cc0f39
+SHA1: 58d137c4387128a4cb6615e668f46c442cdf92cc
+SHA256: 4d939891ee7310d31b01bea81b5fec967b0c5042d18a1d73b6ae8e1f9fba5de8
+SHA512: 637ca9b2cc695fc5a9495401b08a92668820ebfdc489a4c3bef1b29d1fd6fc5eb0444f80d9efac31485989efdf649cf56950062b143e1f0cb801f563db9d8667
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.2.deb
+Size: 1123102
+MD5sum: cfd29c8568155f06c61472e177548687
+SHA1: bcba69b95bd8359c1f452cd630da7b844854e20b
+SHA256: 9157561e51e1637fdbf1d6e190c0c5364bc49e891dbe67570a72fffb67d9a9c9
+SHA512: 336dc57c37d41ec7e06e00c02cc10fb420da2a456cf3f030ecdbc573eeeb8e65b27f9115052c57e9df5105d8125c8a1b2fb63aa9f5c08a88dd15aaade4b726d5
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v1.1.3.deb
+Size: 1123176
+MD5sum: 9f37edc14db916551145c176c5836e47
+SHA1: 98384f329fe931dfe4957ecc84ae79feb5a8ccc8
+SHA256: 88446207f18a26f30403321a0a6fdfbb514149528c6e29244d042af32de0b246
+SHA512: 366b1594a272044ca1a5fb3706c8d72d1b0b211100fd02729bdf1cd92e7b4e74da68b74251770af58b8c678635e590d85fcefea640b0cf08e0955805d8b4c778
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v2.0.0.deb
+Size: 5917186
+MD5sum: 3af64292b5339758edf66099176be6b5
+SHA1: a32c8109d6daf3a15f151122af07bf55713231b0
+SHA256: 1010064c95bf412e15aacb2a866c9ba0777379a4636eb307eb4ce87dd9262d7e
+SHA512: 0db071dbda032149b98b83afbc7cda1fe65dfc4488029b9cfb5ddd718bbc1bf73ab6478ac530122122f831e27fc36594f071c9e439121ea3f05bb45a3c5d94fd
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
+Package: com.icecooltech.mobilesur
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/MobileSur_v2.0.1.deb
+Size: 5915900
+MD5sum: eb586fd702d1cb0cdaa0525fbf345cdf
+SHA1: 87b0acad05dbe0ba6ff42636144074aa64bf6638
+SHA256: fb1da4f32747d00ff69caae0e27b4553de87edfbfda1b0c50f56d6adbb805016
+SHA512: 2f49a69cd21f4765813395b2a3cc0e7794e635c25107c16e1ab1b5dc65ea1e8fe902fd2e8047407648a291d0328466abf14c8a7c2bdfcfb762b6c2be876d5c00
+Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Name: Mobile Sur
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
 Version: 2.2.1
