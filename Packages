@@ -134,6 +134,246 @@ Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.pn
 
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.0.0.deb
+Size: 12957902
+MD5sum: 03b26585332321ae6b61f960f7589517
+SHA1: 5b993bc0946eac7f8d7bf1591cb69d4234f423f0
+SHA256: 42c41d72bea4d2583338268b923167b9214f3b60b6aeb53e7531b49fdabab8ee
+SHA512: 2909d0786e0633241c7ce298d1669dd14d3a67192c1c876054f9479d0c4029e759b8e7864ac110ff2b6a153181ab991ec40f510d2eb4b66e30c9907ec596c564
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.0.1.deb
+Size: 14255410
+MD5sum: 6571213747613bbf72e7229b0bab58c4
+SHA1: 43caaa3e255970602b0cb1f8bdb95a03a251bc97
+SHA256: 8b15abbb7b30a9d9b07c84afd4ddee198bffd54f6f8debf6cd54b847965dddb7
+SHA512: 18f16668fa19a6e4f98dd9dacca91075cf7296194fd7438db48033d07d45c8fd750d7bd607ea97a20e1424130a0f61f7c31d435181908f456636fc8427ac024b
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.1.0.deb
+Size: 14573352
+MD5sum: 43c176dae0fb2b2887048a008242b355
+SHA1: 7224cb944cde2678539cc7a9269755868d32cfdb
+SHA256: ac0e763ad3e934e44604419214193ba06f00610e4a8a4c33d84eea897481cb8a
+SHA512: c8f435391eb803847e06cffed30050255cca0136cc321e19660d43d0827e853785073f5c936dab4f6d160d853f97531f2293bde43b357717511aa44eecea9a83
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v1.1.1.deb
+Size: 14573226
+MD5sum: 3fab804138926aa547ab6e2f914cc0de
+SHA1: bf4b90481aab7e626a6be2f3b2f7803083fde140
+SHA256: 18143486788b079d10bda1e8f1a2ae2501bac0e04c1ba41bd27785790b1851da
+SHA512: 8b9dba2f699109694934f2e87c8b545b0efc9eb26dd4cc810e10e61b5c88ba20beb5f314fbaaf3ad7bcfb4611ff8c61f4bc169958a8b04d44054832fc2ba80f5
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.0.0.deb
+Size: 17308044
+MD5sum: f4093c356365bb301a4baadeab0478f5
+SHA1: 0b49049e33b27aec204aacef45d9e91f15752c8c
+SHA256: 5b05d81aa97c73c653256f921a9a9955ce3d427d17d8c6f7ccd9532be84412e5
+SHA512: e1d5746ae57a678e6c7e059787867b43ae3705e61a6e60e59ae128979713f9a9567f923c919c2626b2494c1ef02ff39eb71c61e553198a2f22e838d07d6ad134
+Description: Full iOS 6 theme for modern displays.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.0.deb
+Size: 19882404
+MD5sum: 76db29aa38e142d6d1c6045d5f81a573
+SHA1: caf68bab280ee0ba6828bc83e797334099483e00
+SHA256: 6bd792c281c5d528ed8e56eac5a3db2fe94bb2a9ddfb4df1ca4b03bef66fe35a
+SHA512: e5779a8cde0cd1f8cdf660fa40c86f95dbfc7f7abb4410098e27be2b9fb868e106a4a2c9cbfbbde655c58769be5e764a27cb22a3dd75358a19e03332faa2fb67
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.1.deb
+Size: 19882492
+MD5sum: 535f3e6adcf9a73023ee49352e1398c0
+SHA1: 77cd057b32fe0dbe7b5114ed602e013831ad2a46
+SHA256: d2c3686b1a12474ecfa3cb11879b1e0b3e5e817022595675744e2150709dd01e
+SHA512: 502a1c1b6b9753dec9b35ff20c9abc05460f56a35dd07dbf06a240b335237e1f88599e3ec853dd5499b26c7782712402168051ca9766bb9acf0e66f32ca0476f
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.2
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.2.deb
+Size: 19434468
+MD5sum: 43d8b172cc1c201ab2703091b746100b
+SHA1: 3c3d60e8f095311a810a25206aa24075a29f1878
+SHA256: 09962f654725367dc7b350d7472b56fe04fbbe83ae7020b0dd5b9294f0ceb1cc
+SHA512: 839612965ceaaf78f7db330116fcc21bb94b6d2105df4a8ce48059d4bb5b15ed2b23465d5b33afa9896cdd178673041cf574dcff6f93a3f9dbca73baa7830d53
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://NostalgiaBoxRepo.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://NostalgiaBoxRepo.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.3
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.3.deb
+Size: 19435594
+MD5sum: 5d7e6f609543d58555af991ab2b8531d
+SHA1: 941de066034f644106045f557b63cce8b6cec2a7
+SHA256: 58057ad3e689b2abb93c8077760b675653a0c951d2a7715faf4aeb7b38e1a322
+SHA512: 4ae2760a14beab717fcf17b8cf691784a8fd3ddb70d955dc793a9f40eba2fa54e09640067e6acacb042153bdb22cae98bd33d83ee564db1d12f94b0282b234b6
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.4
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.4.deb
+Size: 19434514
+MD5sum: 052225c6f58d6f4205d716caf5cd0808
+SHA1: 97db835ff4fff72b1649990dadb8047e4cf68247
+SHA256: a1f74f3066f82992814dc9ef7d7ba4ecb8b883fcb2078c31ecb375adbe20571f
+SHA512: c90e3bacdc102ac785f549b7de1ad3731263cb4863260c7215705815fae171fd91b25c70b6aed2ceaee60b9fe5faf5d15c884b4aa6044c59134b354ec7c6f7bd
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.5
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.5.deb
+Size: 19434592
+MD5sum: 3bf12d4de360c3fcad5a856f28f02ea9
+SHA1: 8098e622522268129e3c2a811291f3b7bb77f262
+SHA256: d4d7b0d2cd74f67f18ac3f690e18a1e34433f8dd53a44cad59bad52fcb11c2d6
+SHA512: 65fb2287a0bf5e382cc3c7d5a34505f79b26d78cec0a38bdc4ca541f3a7346584e97444212af716af826727e854e2dc2cb60c4c566c5119169a47b40c65609de
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.6
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.6.deb
+Size: 20292206
+MD5sum: 305a387d132d74e5d3a57774501f4036
+SHA1: 13402a01c2c2ca4a8cc7440e2d47f6c04dca60a3
+SHA256: 283ed84a2de5eeb220a89a615c4c92a741be36e8fe45b2ab2fb243b8424767aa
+SHA512: c9d1b3ea4e61de3cde734fc9c879035c0eb82626ad3fd83619807c47ea4506eb170e03bd3093fcede15518303ade896469274f72486f199cf24c47f0fab6b02c
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.7
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.7.deb
+Size: 20562628
+MD5sum: 048064009a92ead1ffe36c5cf335e3a9
+SHA1: a9c9f3b94e621dc9cf120ff2c65518817c208c21
+SHA256: ee42e372a73c22756b592c13cb5e2bb77fdc5c78e8fad3ff34393d215689dd84
+SHA512: c4993bfa3613e46692d5bbd97671114dfb79926ed0d5d9041d4cf9377cdf07aa1555390700159a38bd42d4995cc401713a9999840ca55b9159f711024d35eba6
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
+Version: 2.1.8
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v2.1.8.deb
+Size: 20459562
+MD5sum: 231803a824c404bdeb58c95fc2bea65e
+SHA1: 243ecac1e64940bc22d859005b9bce7c16d7844a
+SHA256: 3af849c7ea88172d98d2806b2f287241cf7cd9fa50cd8c6347d8f45c0795889a
+SHA512: 818df8b221f8b1d0441daca5137310eb2b451b47ff02f8f4770b7261f5fcffa8a8e2b3bba65e8aa85758baa2be5040a308f2ae6b92f7959085ae52da742145ae
+Description: The world's sharpest iOS 6 theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
+Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
+
+Package: com.icecooltech.modern6
+Architecture: iphoneos-arm
 Version: 2.2.1
 Section: Themes
 Maintainer: IceCool Tech
