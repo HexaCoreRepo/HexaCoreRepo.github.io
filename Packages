@@ -1,3 +1,20 @@
+Package: com.icecooltech.classicios
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/ClassiciOS_v1.2.0.deb
+Size: 13204432
+MD5sum: 8ff1174de51e94044335be0a7eaeacc0
+SHA1: bfbb5d879c538b63e3acb9f8ec115347024d6e47
+SHA256: c999a4eda2318361e7f378f55966f5293edb7414915e39946b7a94fc85db36ff
+SHA512: ca8ada69ed04a674c79415d21412440503b3ea1369a23ff90dd1f3d8ab95b49b2851a6457fffe9b0a2c705d11d7e8c2ef1a62363201aa95078436e0e1a51c4b7
+Description: Long Live Skeuomorphism
+Name: Classic iOS
+Author: IceCool Tech
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.classicios
+
 Package: com.icecooltech.mobilesur
 Architecture: iphoneos-arm
 Version: 1.0.0
