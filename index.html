@@ -141,6 +141,24 @@ function showSlides(n) {
 
  <br></br>
  
+<head>
+<style>
+body {
+  background-color:#F2F1F7;
+}
+#bg {
+  height:75px;
+  width: 400px;
+  margin: auto;
+  background-color:#FFFFFF;
+  border: 0px solid black;
+  border-radius:12px;
+  padding:10px;
+}
+</style>
+</head>
+<body>
+ 
   <label>
    <p style="margin-left: 16px;font-weight:bold;font-size: 20px">Add to...</p>
   </label>
@@ -148,7 +166,7 @@ function showSlides(n) {
 <form name="cydia" action="cydia://url/https://cydia.saurik.com/api/share#?source=https://icecooltech.github.io/" method="post">
 </form>
   <a href="javascript:cydia.submit()" class="     "><img class="icon" src="./icon/cydia.png">
-    <div>
+    <div id="bg">
       <div>
         <label>
           <p>Cydia <span style="font-style:italic;font-weight:bold">
