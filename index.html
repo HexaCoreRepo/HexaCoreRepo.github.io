@@ -133,10 +133,9 @@ function showSlides(n) {
 }
 </script>
  
-<label>
  <p style="margin-left: 16px;font-weight:bold;font-size: 20px">Popular</p>
- </label> 
-<fieldset>
+ 
+<fieldset style="border-radius:15px;background-color:#FFFFFF;width: 400px;margin: auto">
 <block>
  <p style="font-weight:bold;font-size: 17px;margin-left: 16px"><a href="https://icecooltech.github.io/packageInfo/com.icecooltech.modern6/">Modern 6</a></p>
  <p style="font-style:italic;margin-left: 16px">The World's Sharpest and Most Advanced iOS 6 Theme. Ever.</p>
@@ -148,23 +147,22 @@ function showSlides(n) {
 body {
   background-color:#F2F1F7;
 }
-#bg1 {
-  height:50px;
+.field {
+  height: auto;
   width: 400px;
   margin: auto;
   background-color:#FFFFFF;
   border: 0px solid black;
-  border-radius:12px;
+  border-radius:20px;
   padding:10px;
 }
 </style>
 </head>
 <body>
  
-  <label>
-   <p style="margin-left: 16px;font-weight:bold;font-size: 20px">Add to...</p>
-  </label>
-<fieldset>
+ <p style="margin-left: 16px;font-weight:bold;font-size: 20px">Add to...</p>
+ 
+<fieldset class="field">
 <form name="cydia" action="cydia://url/https://cydia.saurik.com/api/share#?source=https://icecooltech.github.io/" method="post">
 </form>
   <a href="javascript:cydia.submit()" class="     "><img class="icon" src="./icon/cydia.png">
@@ -222,10 +220,10 @@ body {
 </a>
 </fieldset>
  
-  <label>
-   <p style="margin-left: 16px;font-weight:bold;font-size: 20px">My Social's</p>
-  </label>
-<fieldset>
+ 
+ <p style="margin-left: 16px;font-weight:bold;font-size: 20px">My Social's</p>
+
+<fieldset style="border-radius:17px;background-color:#FFFFFF;width: 400px;margin: auto">
 <form name="twitterp" action="https://twitter.com/IceCoolTech" method="post">
 </form>
   <a href="javascript:twitterp.submit()" class="     "><img class="icon" src="./icon/twitter.png">
@@ -271,14 +269,15 @@ body {
 </head>
 <body>
  
- <label>
    <p style="margin-left: 16px;font-weight:bold;font-size: 20px">About</p>
- </label>
- <fieldset>
+ 
+ <fieldset style="border-radius:17px;background-color:#FFFFFF;width: 400px;margin: auto">
+  <div>
   <p style="font-weight:bold;margin-left: 16px">Name: <span style="font-weight:normal">IceCool Tech's Repo</span></p> 
   <p style="font-weight:bold;margin-left: 16px;">
   <a href="./about.html">Version: 2.0 beta 2 (12a217h)<i class="arrow right"></i></a>
   </p>
+  </div>
    <form name="twitters" action="https://twitter.com/IceCoolTechRepo" method="post">
   </form>
   <a href="javascript:twitters.submit()" class="     "><img class="icon" src="./icon/twitter.png">
