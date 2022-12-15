@@ -19,6 +19,34 @@
     </style>
 </head>
 
+<head>
+<style>
+ .topnav {
+  overflow: hidden;
+  background-color: #0088FF;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  top: 0px;
+}
+
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 12px 10px;
+  font-size: 17px;
+  text-decoration: none;
+  margin-left: 7px;
+}
+
+.topnav a:hover {
+  color: #B4CEFA;
+}
+</style>
+</head>
+<body>
+
  <div class="topnav">
   <a href="./index.html">Home</a>
   <a href="./news.html">News</a>
@@ -27,30 +55,50 @@
  
  <p style="font-weight:bold;font-size: 29px;margin-left: 16px;margin-bottom: 20px;margin-top: 75px">Changelog</p>
  
- <fieldset class="field">
+<head>
+<style>
+.field {
+  height: auto;
+  width: 400px;
+  background-color:#F2F2F2;
+  border-radius:20px;
+  border: 0px solid black;
+  padding: 10px;
+  margin-left: 16px;
+}
+</style>
+</head>
+<body>
+ 
+ <div class="field">
    <p style="font-weight:bold;font-size:20px;margin-left: 16px">Version 2.0 beta 4 (12a401f)</p>
    <p style="margin-left: 16px">This beta of version 2.0 includes new features, bug fixes, and improvements.</p>
- </fieldset>
+ </div>
  
 <head>
 <style>
-footer {
-  text-align: left;
-  padding: 15px;
-  background-color: #285B8F;
-  color: white;
-  height: auto;
-  width: 100%;
-  bottom: 0px;
-  position: fixed;
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+#footer {
+    display: inline-block;
+    width: 100%;
+    height: 60px;
+    background-color: #285B8F;
+}
+.text {
+	color: white;
+    text-align: left;
+    margin-left: 16px;
 }
 </style>
 </head>
 <body>
 
-<footer>
-  <p>IceCool Tech's Repo<br>
-</footer>
+<div id="footer" style="margin-top: 520px">
+<p class="text"><a href="https://twitter.com/IceCoolTechRepo" style="color: white;text-decoration: none">IceCool Tech's Repo</p>
+</div>
  
-
 </html>
