@@ -1,7 +1,3 @@
-/* HexaCore Repo Interface
-* Designed by IceCool Tech 
-*/
-
 let slideIndex = 1;
 showSlides(slideIndex);
 
