@@ -1,9 +1,5 @@
-#inews {
-    height: auto;
-    width: 100%;
-  }
-  
-  #Slice {
+
+   #Slice {
       height: auto;
       width: 100%;
   }
@@ -47,13 +43,13 @@
   }
   
   .news {
-    height: 165px;
-    width: 275px;
+    height: auto;
+    width: 100%;
+    max-width: 500px;
     margin-right: 20px;
     float: left;
-    margin-bottom: 20px;
   }
-  
+
   .news-link {
     text-decoration: none;
     color: #2b92ff;
@@ -65,30 +61,14 @@
     transition: 0.2s;
   }
   
-  .thumbnail {
-    display: inline-flex;
-    align-items: center;
-    float: left;
-  }
-  
-  .div1 {
-    overflow:auto;
-    align-items: center;
-    display: flex;
-  }
-  
-  .div2 {
-    float: left;
-  }
-  
   .news-header {
     font-size: 17px;
-    font-weight: bold;
-    color: #757575;
+    font-weight: 700;
+    color: #8b8b8b;
   }
   
   .title {
-      font-size: 30px;
+      font-size: 35px;
       font-weight: bold;
       margin-left: 0px;
       margin-right: 200px;
@@ -98,13 +78,13 @@
   }
   
   .header {
-      font-size: 21px;
+      font-size: 25px;
       font-weight: bold;
       background-color: #fff;
   }
   
   .header-external {
-      font-size: 21px;
+      font-size: 25px;
       font-weight: bold;
       margin-left: 0px;
       margin-top: 20px;
