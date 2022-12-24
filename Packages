@@ -1,4 +1,4 @@
-Package: com.hexacorerepo.classicios
+Package: com.icecooltech.classicios
 Architecture: iphoneos-arm
 Version: 1.2.0
 Section: Themes
@@ -13,7 +13,7 @@ SHA512: ca8ada69ed04a674c79415d21412440503b3ea1369a23ff90dd1f3d8ab95b49b2851a645
 Description: Long Live Skeuomorphism
 Name: Classic iOS
 Author: IceCool Tech
-Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios/classicios.html
+Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.classicios
 
 Package: com.icecooltech.mobilesur
 Architecture: iphoneos-arm
