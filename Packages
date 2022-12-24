@@ -1,3 +1,21 @@
+Package: com.hexacorerepo.cali
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Cali_v1.0.0.deb
+Size: 5215404
+MD5sum: 618dc277167ebd3c6f2283c0bbeee019
+SHA1: a807914a844212b5b1cad58a978bc25c32da1150
+SHA256: a57092fbdba2d7e6786b3240d979d8351e8f8525a5ba05763b4fd93cbe05efa9
+SHA512: 51a2093e803b94d5cdb90af10a369642f2052d1cc5b727569002c8776fbc679364299da98a911da96d80620ffa7222db58335e6b3cc354f833339eeda488bb9c
+Description: Catalina on iOS.
+Name: Cali
+Author: IceCool Tech
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.cali/cali.html
+Icon: https://hexacorerepo.github.io/images/calilogo.png
+
 Package: com.hexacorerepo.classicios
 Architecture: iphoneos-arm
 Version: 1.2.0
