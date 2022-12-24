@@ -12,6 +12,11 @@
     padding-top: 49px;
 }
 
+#version {
+  height: auto;
+  width: 100%;
+}
+
 .logo {
   height:128px;
   width: auto;
