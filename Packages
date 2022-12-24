@@ -1,19 +1,19 @@
-Package: com.icecooltech.classicios
+Package: com.hexacorerepo.classicios
 Architecture: iphoneos-arm
 Version: 1.2.0
 Section: Themes
 Maintainer: IceCool Tech
 Depends: com.spark.snowboard | com.anemonetheming.anemone
 Filename: ./debfiles/ClassiciOS_v1.2.0.deb
-Size: 13204432
-MD5sum: 8ff1174de51e94044335be0a7eaeacc0
-SHA1: bfbb5d879c538b63e3acb9f8ec115347024d6e47
-SHA256: c999a4eda2318361e7f378f55966f5293edb7414915e39946b7a94fc85db36ff
-SHA512: ca8ada69ed04a674c79415d21412440503b3ea1369a23ff90dd1f3d8ab95b49b2851a6457fffe9b0a2c705d11d7e8c2ef1a62363201aa95078436e0e1a51c4b7
+Size: 13204476
+MD5sum: 162e36f985d572d0da49d3302151a0eb
+SHA1: 6be2032ca293b708401b9cc9ac15b98d7c195931
+SHA256: 533455774174f7d115fe921085af3d4ed0e8c747aae0d7b9b502748727bb6ebf
+SHA512: d3ebf6bc45ff0ec626d1cc4944e34580a45f7b31fa15f42310a000af1ef0c9f9d7de58a4e476cad3196d54db023523f5ff2e2737c4c3bdcd1c717e482efb74f3
 Description: Long Live Skeuomorphism
 Name: Classic iOS
 Author: IceCool Tech
-Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.classicios
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios/classicios.html
 
 Package: com.icecooltech.mobilesur
 Architecture: iphoneos-arm
