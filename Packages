@@ -33,24 +33,6 @@ Author: IceCool Tech
 Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.mobilesur/mobilesur.html
 Icon: https://hexacorerepo.github.io/images/mobilesurlogo.png
 
-Package: com.icecooltech.modern6
-Architecture: iphoneos-arm
-Version: 2.2.1
-Section: Themes
-Maintainer: IceCool Tech
-Depends: com.spark.snowboard | com.anemonetheming.anemone
-Filename: ./debfiles/Modern6_v2.2.1.deb
-Size: 20459568
-MD5sum: 7c7b4e113ae91fb18a9d67c256d2943a
-SHA1: d672fa4be4a2026b05b42860f9ff471b66239f67
-SHA256: fd7723886e3bf491f547abe9d88c349deef6f8046d76972a8b8c6126b8362f1e
-SHA512: d1f896be28295d085d8e44ed7db5b9e510d30cc6f74823bd8c4ed57d64580281035027a406b54582d91293a104d790759964562df9d58fb7112e3e18255b0437
-Description: The world's sharpest iOS 6 theme.
-Name: Modern 6
-Author: IceCool Tech
-Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.modern6/
-Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Modern6_icon.png
-
 Package: com.hexacorerepo.modern6
 Architecture: iphoneos-arm
 Version: 3.0.0
