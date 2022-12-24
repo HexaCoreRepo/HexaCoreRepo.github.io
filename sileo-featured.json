@@ -4,22 +4,28 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mondern6_banner.png",
+        "url": "https://hexacorerepo.github.io/packageInfo/PackageAssets/Mondern6_banner.png",
         "title": "Modern 6",
-        "package": "com.icecooltech.modern6",
+        "package": "com.hexacorerepo.modern6",
         "hideShadow": false
     },
     {
-        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mobile_Sur_Banner.png",
+        "url": "https://hexacorerepo.github.io/packageInfo/PackageAssets/Mobile_Sur_Banner.png",
         "title": "Mobile Sur",
-        "package": "com.icecooltech.mobilesur",
+        "package": "com.hexacorerepo.mobilesur",
         "hideShadow": false
     },
     {
-        "url": "https://icecooltech.github.io/packageInfo/PackageAssets/Mondern6_Banner.png",
+        "url": "https://hexacorerepo.github.io/packageInfo/PackageAssets/Mondern6_Banner.png",
         "title": "Classic iOS",
-        "package": "com.icecooltech.Classic iOS",
+        "package": "com.hexacorerepo.classicios",
         "hideShadow": false
+    },
+    {
+       "url": "https://hexacorerepo.github.io/packageInfo/PackageAssets/Mondern6_Banner.png",
+       "title": "Cali",
+       "package": "com.hexacorerepo.cali",
+       "hideShadow": false
     }
   ]
 }
