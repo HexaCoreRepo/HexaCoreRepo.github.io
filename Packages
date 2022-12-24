@@ -15,23 +15,23 @@ Name: Classic iOS
 Author: IceCool Tech
 Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios/classicios.html
 
-Package: com.icecooltech.mobilesur
+Package: com.hexacorerepo.mobilesur
 Architecture: iphoneos-arm
 Version: 2.0.1
 Section: Themes
 Maintainer: IceCool Tech
 Depends: com.spark.snowboard | com.anemonetheming.anemone
 Filename: ./debfiles/MobileSur_v2.0.1.deb
-Size: 5915900
-MD5sum: eb586fd702d1cb0cdaa0525fbf345cdf
-SHA1: 87b0acad05dbe0ba6ff42636144074aa64bf6638
-SHA256: fb1da4f32747d00ff69caae0e27b4553de87edfbfda1b0c50f56d6adbb805016
-SHA512: 2f49a69cd21f4765813395b2a3cc0e7794e635c25107c16e1ab1b5dc65ea1e8fe902fd2e8047407648a291d0328466abf14c8a7c2bdfcfb762b6c2be876d5c00
-Description: Retina macOS Big Sur icons for iOS/iPadOS devices.
+Size: 5915928
+MD5sum: d760af5307ac78cb8f9012aee8c7d366
+SHA1: 2f1f9402f47e78cbb968bcca4a2073d464eb0ae3
+SHA256: f4f09b1f64b0e7e44b7dcc34e3dde3c2fb6a2ba94ec2f08a5ed06254f74dd8c5
+SHA512: 6e99b0b1f35e5c36d5808e14d6de5b9d9d49cf4e43042b24b61e8ab3920721fd72e5abedc64bcdc8b9dcc7b4715f253d953e4bd45fb51e39d33caed758f5f819
+Description: Big Sur in Your Pocket.
 Name: Mobile Sur
 Author: IceCool Tech
-Depiction: https://IceCoolTech.github.io/packageInfo/com.icecooltech.mobilesur/
-Icon: https://IceCoolTech.github.io/packageInfo/PackageAssets/Mobile_Sur_logo.png
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.mobilesur/mobilesur.html
+Icon: https://hexacorerepo.github.io/images/mobilesurlogo.png
 
 Package: com.icecooltech.modern6
 Architecture: iphoneos-arm
