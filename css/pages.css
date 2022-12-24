@@ -43,6 +43,16 @@
     color: #909090;
     transition: 0.2s;
   }
+
+  .main-link4 {
+    text-decoration: none;
+    color: #855aac;
+  }
+  
+  .main-link4:hover {
+    color: #4e034d;
+    transition: 0.2s;
+  }
   
   .news {
     height: auto;
@@ -88,6 +98,15 @@
       margin-bottom: 20px;
       padding-top: 49px;
   }
+
+  .title-index {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
   
   .header {
       font-size: 21px;
