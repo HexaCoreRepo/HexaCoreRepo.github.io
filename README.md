@@ -1,4 +1,3 @@
-# HexaCore Repo 
-(Was IceCool Tech's Repo)
+# HexaCore Repo (Was IceCool Tech's Repo)
 
 
