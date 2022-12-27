@@ -246,8 +246,20 @@
         color: #0095ff;
         font-weight: bold;
       }
-    
+
       .link:hover {
         color: #79c7ff;
+        transition: 0.2s;
+      }
+
+      .cookielink {
+        color: #ffffff;
+        background-color: transparent;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      .cookielink:hover {
+        color: rgb(180, 180, 180);
         transition: 0.2s;
       }
