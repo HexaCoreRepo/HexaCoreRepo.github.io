@@ -122,6 +122,18 @@
    </fieldset>
    </body>
 
+   <fieldset id="cookiebox">
+    <p id="cookietext">We use cookies to provide you with the best experience possible. By clicking "I Agree," you agree to our use of cookies as outlined by our <a class="cookielink" href="/privacy.html">Privacy Policy.</a></p>
+    <fieldset id="cookiebutton">
+    <p id="cookiebuttontext">I Agree</p>
+    </fieldset>
+   </fieldset>
+
+   <script>
+    document.getElementById("cookiebutton").onclick = function() {
+        document.getElementById("cookiebox").style.display = "none";
+    }
+ </script>
 
    <body>
     <div class="footer-container">
