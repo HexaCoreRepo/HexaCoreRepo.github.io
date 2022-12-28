@@ -18,6 +18,23 @@ Icon: https://hexacorerepo.github.io/images/calilogo.png
 
 Package: com.hexacorerepo.classicios
 Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/ClassiciOS_1.3.0.deb
+Size: 11034202
+MD5sum: ca374db37e2fbdc8bdc4d1eef8e4355b
+SHA1: 0c003321ba845bc6ecb6bfdc216b76c610d56d53
+SHA256: b5625e389d653a6d220da7719cf91bec30d7a8952ed2d4d239d77f7de6bdc72d
+SHA512: 9d5f46facf8d362aa546d873cbb51ce867e25b849b1b22e25fa6ddf68b256612ea5c41156ffb0499980d4f88ff09a770054a5a342d1ed0c828861a87b42ae0c2
+Description: What's Old is New. Again.
+Name: Classic iOS
+Author: IceCool Tech
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios/classicios.html
+
+Package: com.hexacorerepo.classicios
+Architecture: iphoneos-arm
 Version: 1.2.0
 Section: Themes
 Maintainer: IceCool Tech
