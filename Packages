@@ -33,6 +33,23 @@ Name: Classic iOS
 Author: IceCool Tech
 Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios/classicios.html
 
+Package: com.hexacorerepo.classicios
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/ClassiciOS_v1.3.0.deb
+Size: 11034184
+MD5sum: 335e964fadd6b13625d0b7b15863cf3a
+SHA1: 86b602ea0d954329071ecb2d609779a794b06ffa
+SHA256: 9dcc36f25ac12bcbfb92aa7b1ee752db46f8d9b302f714fa49d8173c52b642d8
+SHA512: 7f7926a561be64e63cd7263566812805a6ef9d69293f9250b6a347fbec502a0496eebfe7a155f456ba953b5234ffd267fd4eeeab2d46f73f22a8b799da7726a5
+Description: Long Live Skeuomorphism
+Name: Classic iOS
+Author: IceCool Tech
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.classicios
+
 Package: com.hexacorerepo.mobilesur
 Architecture: iphoneos-arm
 Version: 2.0.1
