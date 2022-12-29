@@ -13,46 +13,6 @@
     margin-top: 45px;
     margin-bottom: 45px;
   }
-
-  .main-link1 {
-    text-decoration: none;
-    color: #828282;
-  }
-  
-  .main-link1:hover {
-    color: #3d3d3d;
-    transition: 0.2s;
-  }
-  
-  .main-link2 {
-    text-decoration: none;
-    color: #287aff;
-  }
-  
-  .main-link2:hover {
-    color: #3fb9ff;
-    transition: 0.2s;
-  }
-  
-  .main-link3 {
-    text-decoration: none;
-    color: #00517d;
-  }
-  
-  .main-link3:hover {
-    color: #909090;
-    transition: 0.2s;
-  }
-
-  .main-link4 {
-    text-decoration: none;
-    color: #855aac;
-  }
-  
-  .main-link4:hover {
-    color: #4e034d;
-    transition: 0.2s;
-  }
   
   .news {
     height: auto;
@@ -114,7 +74,7 @@
   }
   
   .header-external {
-      font-size: 21px;
+      font-size: 22px;
       font-weight: bold;
       margin-left: 0px;
       margin-top: 20px;
@@ -133,12 +93,19 @@
       max-width: 1150px;
       background-color: #f1f1f1;
       border-radius:20px;
-      border: 1px solid #cfcfcf;
+      border: transparent;
       padding: 25px;
       margin-top: 10px;
       margin-left: auto;
       margin-right: auto;
       margin-bottom: 20px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .field {
+        background-color: rgb(47, 47, 47);
+        border: transparent;
+      }
     }
   
     .field-add {
