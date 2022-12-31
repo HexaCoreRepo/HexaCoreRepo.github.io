@@ -86,3 +86,21 @@ Author: IceCool Tech
 Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.modern6/modern6.html
 Icon: https://hexacorerepo.github.io/images/modern6logo.png
 
+Package: com.hexacorerepo.modern6
+Architecture: iphoneos-arm
+Version: 3.1.0
+Section: Themes
+Maintainer: IceCool Tech
+Depends: firmware (>= 13.0) | com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/Modern6_v3.1.0.deb
+Size: 88676982
+MD5sum: 1497bed06750533baa5f027b1bf3e1f4
+SHA1: 08091cab700797a1d84bad7fe77c51680f9f6b2f
+SHA256: d6eeeeb346cd04e4da9115a0dc6c2e9a3397b299bdfb8ea03bece3a436f2a997
+SHA512: d312de31a2de151fa5cb0d40e8162db82bd726fb93f6c3e79beb19547fc1eff533a7e82dbb92ef5d572053bb73167312f1c94d19e6e9ff82530c64d54b942963
+Description: The World's Most Advanced iOS 6 Theme.
+Name: Modern 6
+Author: IceCool Tech
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.modern6/modern6.html
+Icon: https://hexacorerepo.github.io/images/modern6logo.png
+
