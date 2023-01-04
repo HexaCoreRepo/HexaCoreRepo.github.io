@@ -88,16 +88,15 @@
   }
   
   .field {
-      height: auto;
-      width: auto;
-      max-width: 1150px;
+      max-width: 275px;
       background-color: #f1f1f1;
+      display: inline;
       border-radius:20px;
       border: transparent;
       padding: 25px;
       margin-top: 10px;
-      margin-left: auto;
       margin-right: auto;
+      margin-left: 0px;
       margin-bottom: 20px;
     }
 
@@ -144,11 +143,6 @@
           margin-bottom: 20px;
           max-width: 800px;
         }
-        .field {
-          margin-left: auto;
-          margin-right: auto;
-          max-width: 800px;
-        }
       }
     
       @media all and (min-width: 601px) and (max-width: 905px) {
@@ -167,10 +161,6 @@
           margin-top: 20px;
           margin-bottom: 20px;
         }
-        .field {
-          margin-left: 25px;
-          margin-right: 25px;
-        }
       }
     
       @media all and (max-width: 600px) {
@@ -188,10 +178,6 @@
           margin-left: 0px;
           margin-top: 20px;
           margin-bottom: 20px;
-        }
-        .field {
-          margin-left: 25px;
-          margin-right: 25px;
         }
       }
     

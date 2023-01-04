@@ -114,6 +114,16 @@
     transition: 0.2s;
   }
 
+  .main-link7 {
+    color: #3ab0ff;
+    text-decoration: none;
+  }
+
+  .main-link7:hover {
+    color: #8fd6ff;
+    transition: 0.2s;
+  }
+
   @media (prefers-color-scheme: dark) {
     .main-link1 {
       color: rgb(119, 119, 119);
