@@ -104,3 +104,21 @@ Author: IceCool Tech
 Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.modern6/modern6.html
 Icon: https://hexacorerepo.github.io/images/modern6logo.png
 
+Package: com.hexacorerepo.neui
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Themes (UI)
+Maintainer: IceCool Tech
+Depends: firmware (<= 13.0) | com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debfiles/NeUI_v0.1.0.deb
+Size: 128832
+MD5sum: 3e171fdce276428b2cc2b855b44ad0c2
+SHA1: 34a110f44092e39d9fb58269379bd2c22fa41aaa
+SHA256: 5ad94af492169c6221dfad010ad30cf5a55cee913cf0d289f027c283d2e3f24a
+SHA512: e37b9018e1d379d15c126ec34242de851afd024213de60aad3065ef51e36c87b2b8847242dad994b348685d0ef48bb60555c0e8bcd0902148c9e63b95f8a578a
+Description: Modern iOS UI for iOS 12 and older
+Name: NeUI
+Author: IceCool Tech
+Depiction: https://hexacorerepo.github.io/packageInfo/com.hexacorerepo.neui/modern6.html
+Icon: https://hexacorerepo.github.io/images/neuilogo.png
+
