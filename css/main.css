@@ -43,12 +43,13 @@
 }
 
 #cookiebutton {
-  background-color: rgb(125, 195, 255);  
+  background-color: rgb(87, 160, 255);  
   margin: 20px;
   margin-top: 25px;
   border-radius: 15px;
   height: 50px;
   border: transparent;
+  transition: 0.2s ease-in-out;
 }
 
 #cookiebuttontext {
@@ -61,8 +62,8 @@
 }
 
 #cookiebutton:hover {
-  background-color: #142a48;
-  transition: 0.2s;
+  background-color: #1e60bc;
+  transition: 0.2s ease-in-out;
 }
 
 .M6 {
@@ -130,11 +131,12 @@
     text-decoration: none;
     display: inline-block;
     background-color: transparent;
+    transition: 0.2s ease-out;
 }
 
 .navbar a:hover {
     color: #c5c5c5;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
 }
 
 .menu {
@@ -266,7 +268,6 @@
   
   .footer-heading a:hover {
     text-decoration: underline;
-    transition: 0.3s ease-out;
   }
 
   #footer-image {
@@ -303,7 +304,6 @@
 
   .fh a:hover {
     text-decoration: underline;
-    transition: 0.3s ease-out;
   }
 
   .division {
@@ -333,4 +333,3 @@
       margin-top: 20px;
     }
   }
-

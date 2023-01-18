@@ -26,6 +26,7 @@
     text-decoration: none;
     color: #2b92ff;
     font-weight: bold;
+    transition: 0.2s ease-out;
   }
   
   .news-link:hover {
@@ -198,11 +199,12 @@
         text-decoration: none;
         color: #0095ff;
         font-weight: bold;
+        transition: 0.2s ease-in-out;
       }
 
       .link:hover {
         color: #79c7ff;
-        transition: 0.2s;
+        transition: 0.2s ease-in-out;
       }
 
       .cookielink {
@@ -210,9 +212,10 @@
         background-color: transparent;
         text-decoration: none;
         font-weight: bold;
+        transition: 0.2s ease-in-out;
       }
 
       .cookielink:hover {
         color: rgb(180, 180, 180);
-        transition: 0.2s;
+        transition: 0.2s ease-in-out;
       }

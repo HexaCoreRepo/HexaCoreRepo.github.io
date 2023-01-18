@@ -57,71 +57,78 @@
   .main-link1 {
     text-decoration: none;
     color: #858585;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link1:hover {
     color: #c2c2c2;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link2 {
     text-decoration: none;
     color: #287aff;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link2:hover {
     color: #9dc3ff;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link3 {
     text-decoration: none;
     color: #0069a1;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link3:hover {
     color: #9ab0c2;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link4 {
     text-decoration: none;
     color: #855aac;
+    transition: 0.2s ease-in-out;
   }
   
   .main-link4:hover {
     color: #c9b3d4;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link5 {
     color: #ff8c00;
     text-decoration: none;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link5:hover {
     color: #ffd5a3;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link6 {
     color: #9283ff;
     text-decoration: none;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link6:hover {
     color: #d6d1ff;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link7 {
     color: #3ab0ff;
     text-decoration: none;
+    transition: 0.2s ease-in-out;
   }
 
   .main-link7:hover {
     color: #8fd6ff;
-    transition: 0.2s;
+    transition: 0.2s ease-in-out;
   }
 
   @media (prefers-color-scheme: dark) {
