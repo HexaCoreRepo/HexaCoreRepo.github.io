@@ -1,8 +1,8 @@
-Origin: HexaCore Repo
-Label: HexaCore Repo
+Origin: IceCool Tech's Repo
+Label: IceCool Tech's Repo
 Suite: stable
-Version: 2.1
+Version: 2.2
 Codename: IceCoolTech
 Architecture: iphoneos-arm
 Components: main
-Description: HexaCore strives to push theming to the next level in ways that everyone can enjoy. That is why we will never charge for any of our packages.
+Description: IceCool Tech's Repo
